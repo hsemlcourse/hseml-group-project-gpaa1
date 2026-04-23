@@ -29,7 +29,7 @@
   выявлять клиентов с высоким риском оттока
   снижать потери
   повышать удержание клиентов
-**Датасет:** [Название и источник датасета]
+  **Датасет:**
   Название: Churn Modelling Dataset
   Источник: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
   
