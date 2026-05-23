@@ -122,12 +122,12 @@ streamlit run app/streamlit_app.py
 
 | Модель | F1-score (val) | ROC‑AUC (val) | F1-score (test) |
 | --- | --- | --- | --- |
-| Logistic Regression | 0.499 | 0.771 | –   |
-| KNN | 0.503 | 0.802 | –   |
-| Decision Tree | 0.577 | 0.839 | –   |
-| Random Forest | 0.620 | 0.861 | –   |
-| Gradient Boosting | 0.598 | 0.866 | –   |
-| **XGBoost** | **0.630** | **0.864** | **0.605** |
+| Logistic Regression | 0.499 | 0.771 | 0.49   |
+| KNN | 0.503 | 0.802 | 0.50   |
+| Decision Tree | 0.577 | 0.839 | 0.57   |
+| Random Forest | 0.620 | 0.861 | 0.619   |
+| Gradient Boosting | 0.598 | 0.866 | 0,598   |
+| **XGBoost** | **0.630** | **0.864** | **0.63** |
 
 ## Деплой
 
