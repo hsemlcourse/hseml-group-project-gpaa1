@@ -136,14 +136,13 @@ streamlit run app/streamlit_app.py
 
 Пример запроса к API:
 
-bash
-
+```bash
 curl -X POST http://localhost:8000/predict \\
 
 \-H "Content-Type: application/json" \\
 
 \-d '{"CreditScore":650,"Geography":"France","Gender":"Female","Age":35,"Tenure":5,"Balance":50000,"NumOfProducts":2,"HasCrCard":1,"IsActiveMember":1,"EstimatedSalary":100000}'
-
+```
 Пример ответа:
 
 json
